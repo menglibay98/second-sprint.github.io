@@ -1,2 +1,2 @@
 # second-sprint.github.io
-New Project Spring Task 2
+Sprint Task 2 Bitlab Academy
