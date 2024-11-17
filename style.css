@@ -166,7 +166,7 @@ header {
     margin-bottom: 20px;
 }
   
-.friends-list {
+.friends-lst {
     display: flex;
     gap: 10px;
 }
@@ -206,11 +206,6 @@ header {
     gap: 15px;
 }
   
-.friends {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-}
   
 .friends img {
     width: 100px;
