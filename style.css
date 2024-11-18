@@ -205,6 +205,12 @@ header {
     flex-direction: column;
     gap: 15px;
 }
+
+.friends {
+    display: flex;
+    margin: 5px;
+
+}
   
   
 .friends img {
